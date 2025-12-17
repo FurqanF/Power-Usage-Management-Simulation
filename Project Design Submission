@@ -1,0 +1,8 @@
+Test Cases:
+
+Questions about requirments document:
+* Can a smart appliance be turned off completely, or only have its wattage reduced?
+* Should we track the state of each appliance between intervals or roll fresh probability checks each time?
+* What happens if multiple appliances have the same reduce percentage and wattage?
+* What is the expected format of the input file for adding appliances?
+* Do we need a front end in this project?

@@ -1,0 +1,1778 @@
+1 Loc=10000001 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+2 Loc=10000001 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+3 Loc=10000001 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+4 Loc=10000001 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+5 Loc=10000001 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+6 Loc=10000001 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+7 Loc=10000001 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+8 Loc=10000001 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+9 Loc=10000001 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+10 Loc=10000001 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+11 Loc=10000001 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+12 Loc=10000001 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+13 Loc=10000001 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+14 Loc=10000001 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+15 Loc=10000001 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+16 Loc=10000001 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+17 Loc=10000001 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+18 Loc=10000002 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+19 Loc=10000002 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+20 Loc=10000002 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+21 Loc=10000002 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+22 Loc=10000002 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+23 Loc=10000002 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+24 Loc=10000002 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+25 Loc=10000002 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+26 Loc=10000002 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+27 Loc=10000002 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+28 Loc=10000002 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+29 Loc=10000002 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+30 Loc=10000002 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+31 Loc=10000002 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+32 Loc=10000002 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+33 Loc=10000002 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+34 Loc=10000002 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+35 Loc=10000002 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+36 Loc=10000002 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+37 Loc=10000003 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+38 Loc=10000003 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+39 Loc=10000003 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+40 Loc=10000003 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+41 Loc=10000003 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+42 Loc=10000003 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+43 Loc=10000003 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+44 Loc=10000003 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+45 Loc=10000003 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+46 Loc=10000003 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+47 Loc=10000003 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+48 Loc=10000003 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+49 Loc=10000003 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+50 Loc=10000003 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+51 Loc=10000003 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+52 Loc=10000003 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+53 Loc=10000003 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+54 Loc=10000003 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+55 Loc=10000003 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+56 Loc=10000004 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+57 Loc=10000004 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+58 Loc=10000004 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+59 Loc=10000004 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+60 Loc=10000004 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+61 Loc=10000004 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+62 Loc=10000004 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+63 Loc=10000004 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+64 Loc=10000004 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+65 Loc=10000004 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+66 Loc=10000004 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+67 Loc=10000004 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+68 Loc=10000004 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+69 Loc=10000004 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+70 Loc=10000004 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+71 Loc=10000004 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+72 Loc=10000004 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+73 Loc=10000004 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+74 Loc=10000005 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+75 Loc=10000005 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+76 Loc=10000005 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+77 Loc=10000005 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+78 Loc=10000005 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+79 Loc=10000005 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+80 Loc=10000005 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+81 Loc=10000005 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+82 Loc=10000005 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+83 Loc=10000005 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+84 Loc=10000005 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+85 Loc=10000005 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+86 Loc=10000005 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+87 Loc=10000005 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+88 Loc=10000005 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+89 Loc=10000005 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+90 Loc=10000006 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+91 Loc=10000006 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+92 Loc=10000006 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+93 Loc=10000006 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+94 Loc=10000006 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+95 Loc=10000006 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+96 Loc=10000006 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+97 Loc=10000006 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+98 Loc=10000006 Name=Air Conditioner - 10000 BTU OnW=1000 OffW=100 ProbOn=0.25 Reduce%=0.5
+99 Loc=10000006 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+100 Loc=10000006 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+101 Loc=10000006 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+102 Loc=10000006 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+103 Loc=10000006 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+104 Loc=10000006 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+105 Loc=10000006 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+106 Loc=10000006 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+107 Loc=10000006 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+108 Loc=10000006 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+109 Loc=10000006 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+110 Loc=10000007 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+111 Loc=10000007 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+112 Loc=10000007 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+113 Loc=10000007 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+114 Loc=10000007 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+115 Loc=10000007 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+116 Loc=10000007 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+117 Loc=10000007 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+118 Loc=10000007 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+119 Loc=10000007 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+120 Loc=10000007 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+121 Loc=10000007 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+122 Loc=10000007 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+123 Loc=10000007 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+124 Loc=10000007 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+125 Loc=10000008 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+126 Loc=10000008 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+127 Loc=10000008 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+128 Loc=10000008 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+129 Loc=10000008 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+130 Loc=10000008 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+131 Loc=10000008 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+132 Loc=10000008 Name=Television - 55 inch OnW=220 OffW=5 ProbOn=0.167
+133 Loc=10000008 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+134 Loc=10000008 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+135 Loc=10000008 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+136 Loc=10000008 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+137 Loc=10000008 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+138 Loc=10000008 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+139 Loc=10000008 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+140 Loc=10000008 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+141 Loc=10000009 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+142 Loc=10000009 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+143 Loc=10000009 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+144 Loc=10000009 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+145 Loc=10000009 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+146 Loc=10000009 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+147 Loc=10000009 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+148 Loc=10000009 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+149 Loc=10000009 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+150 Loc=10000009 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+151 Loc=10000009 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+152 Loc=10000009 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+153 Loc=10000009 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+154 Loc=10000009 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+155 Loc=10000009 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+156 Loc=10000009 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+157 Loc=10000009 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+158 Loc=10000010 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+159 Loc=10000010 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+160 Loc=10000010 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+161 Loc=10000010 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+162 Loc=10000010 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+163 Loc=10000010 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+164 Loc=10000010 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+165 Loc=10000010 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+166 Loc=10000010 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+167 Loc=10000010 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+168 Loc=10000010 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+169 Loc=10000010 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+170 Loc=10000010 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+171 Loc=10000010 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+172 Loc=10000010 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+173 Loc=10000010 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+174 Loc=10000010 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+175 Loc=10000011 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+176 Loc=10000011 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+177 Loc=10000011 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+178 Loc=10000011 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+179 Loc=10000011 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+180 Loc=10000011 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+181 Loc=10000011 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+182 Loc=10000011 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+183 Loc=10000011 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+184 Loc=10000011 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+185 Loc=10000011 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+186 Loc=10000011 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+187 Loc=10000011 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+188 Loc=10000011 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+189 Loc=10000011 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+190 Loc=10000011 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+191 Loc=10000011 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+192 Loc=10000011 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+193 Loc=10000011 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+194 Loc=10000011 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+195 Loc=10000012 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+196 Loc=10000012 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+197 Loc=10000012 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+198 Loc=10000012 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+199 Loc=10000012 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+200 Loc=10000012 Name=Air Conditioner - 10000 BTU OnW=1000 OffW=100 ProbOn=0.25 Reduce%=0.5
+201 Loc=10000012 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+202 Loc=10000012 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+203 Loc=10000012 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+204 Loc=10000012 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+205 Loc=10000012 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+206 Loc=10000012 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+207 Loc=10000012 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+208 Loc=10000012 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+209 Loc=10000012 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+210 Loc=10000013 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+211 Loc=10000013 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+212 Loc=10000013 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+213 Loc=10000013 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+214 Loc=10000013 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+215 Loc=10000013 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+216 Loc=10000013 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+217 Loc=10000013 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+218 Loc=10000013 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+219 Loc=10000013 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+220 Loc=10000013 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+221 Loc=10000013 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+222 Loc=10000013 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+223 Loc=10000013 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+224 Loc=10000013 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+225 Loc=10000013 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+226 Loc=10000013 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+227 Loc=10000014 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+228 Loc=10000014 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+229 Loc=10000014 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+230 Loc=10000014 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+231 Loc=10000014 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+232 Loc=10000014 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+233 Loc=10000014 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+234 Loc=10000014 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+235 Loc=10000014 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+236 Loc=10000014 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+237 Loc=10000014 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+238 Loc=10000014 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+239 Loc=10000014 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+240 Loc=10000014 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+241 Loc=10000014 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+242 Loc=10000014 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+243 Loc=10000014 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+244 Loc=10000014 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+245 Loc=10000014 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+246 Loc=10000014 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+247 Loc=10000015 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+248 Loc=10000015 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+249 Loc=10000015 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+250 Loc=10000015 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+251 Loc=10000015 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+252 Loc=10000015 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+253 Loc=10000015 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+254 Loc=10000015 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+255 Loc=10000015 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+256 Loc=10000015 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+257 Loc=10000015 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+258 Loc=10000015 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+259 Loc=10000015 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+260 Loc=10000015 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+261 Loc=10000015 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+262 Loc=10000015 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+263 Loc=10000015 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+264 Loc=10000015 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+265 Loc=10000015 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+266 Loc=10000015 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+267 Loc=10000016 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+268 Loc=10000016 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+269 Loc=10000016 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+270 Loc=10000016 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+271 Loc=10000016 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+272 Loc=10000016 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+273 Loc=10000016 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+274 Loc=10000016 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+275 Loc=10000016 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+276 Loc=10000016 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+277 Loc=10000016 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+278 Loc=10000016 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+279 Loc=10000016 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+280 Loc=10000016 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+281 Loc=10000016 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+282 Loc=10000016 Name=Air Conditioner - 10000 BTU OnW=1000 OffW=100 ProbOn=0.25 Reduce%=0.5
+283 Loc=10000016 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+284 Loc=10000016 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+285 Loc=10000016 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+286 Loc=10000017 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+287 Loc=10000017 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+288 Loc=10000017 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+289 Loc=10000017 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+290 Loc=10000017 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+291 Loc=10000017 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+292 Loc=10000017 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+293 Loc=10000017 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+294 Loc=10000017 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+295 Loc=10000017 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+296 Loc=10000017 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+297 Loc=10000017 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+298 Loc=10000017 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+299 Loc=10000017 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+300 Loc=10000017 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+301 Loc=10000017 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+302 Loc=10000017 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+303 Loc=10000018 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+304 Loc=10000018 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+305 Loc=10000018 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+306 Loc=10000018 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+307 Loc=10000018 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+308 Loc=10000018 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+309 Loc=10000018 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+310 Loc=10000018 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+311 Loc=10000018 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+312 Loc=10000018 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+313 Loc=10000018 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+314 Loc=10000018 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+315 Loc=10000018 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+316 Loc=10000018 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+317 Loc=10000018 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+318 Loc=10000018 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+319 Loc=10000018 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+320 Loc=10000018 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+321 Loc=10000018 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+322 Loc=10000018 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+323 Loc=10000019 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+324 Loc=10000019 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+325 Loc=10000019 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+326 Loc=10000019 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+327 Loc=10000019 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+328 Loc=10000019 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+329 Loc=10000019 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+330 Loc=10000019 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+331 Loc=10000019 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+332 Loc=10000019 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+333 Loc=10000019 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+334 Loc=10000019 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+335 Loc=10000019 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+336 Loc=10000019 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+337 Loc=10000019 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+338 Loc=10000020 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+339 Loc=10000020 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+340 Loc=10000020 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+341 Loc=10000020 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+342 Loc=10000020 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+343 Loc=10000020 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+344 Loc=10000020 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+345 Loc=10000020 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+346 Loc=10000020 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+347 Loc=10000020 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+348 Loc=10000020 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+349 Loc=10000020 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+350 Loc=10000020 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+351 Loc=10000020 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+352 Loc=10000020 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+353 Loc=10000020 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+354 Loc=10000020 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+355 Loc=10000020 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+356 Loc=10000020 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+357 Loc=10000020 Name=Air Conditioner - 10000 BTU OnW=1000 OffW=100 ProbOn=0.25 Reduce%=0.5
+358 Loc=10000021 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+359 Loc=10000021 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+360 Loc=10000021 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+361 Loc=10000021 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+362 Loc=10000021 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+363 Loc=10000021 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+364 Loc=10000021 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+365 Loc=10000021 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+366 Loc=10000021 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+367 Loc=10000021 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+368 Loc=10000021 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+369 Loc=10000021 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+370 Loc=10000021 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+371 Loc=10000021 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+372 Loc=10000021 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+373 Loc=10000021 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+374 Loc=10000021 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+375 Loc=10000021 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+376 Loc=10000021 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+377 Loc=10000022 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+378 Loc=10000022 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+379 Loc=10000022 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+380 Loc=10000022 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+381 Loc=10000022 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+382 Loc=10000022 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+383 Loc=10000022 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+384 Loc=10000022 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+385 Loc=10000022 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+386 Loc=10000022 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+387 Loc=10000022 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+388 Loc=10000022 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+389 Loc=10000022 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+390 Loc=10000022 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+391 Loc=10000022 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+392 Loc=10000022 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+393 Loc=10000022 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+394 Loc=10000022 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+395 Loc=10000023 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+396 Loc=10000023 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+397 Loc=10000023 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+398 Loc=10000023 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+399 Loc=10000023 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+400 Loc=10000023 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+401 Loc=10000023 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+402 Loc=10000023 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+403 Loc=10000023 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+404 Loc=10000023 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+405 Loc=10000023 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+406 Loc=10000023 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+407 Loc=10000023 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+408 Loc=10000023 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+409 Loc=10000023 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+410 Loc=10000023 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+411 Loc=10000023 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+412 Loc=10000023 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+413 Loc=10000023 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+414 Loc=10000023 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+415 Loc=10000024 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+416 Loc=10000024 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+417 Loc=10000024 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+418 Loc=10000024 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+419 Loc=10000024 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+420 Loc=10000024 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+421 Loc=10000024 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+422 Loc=10000024 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+423 Loc=10000024 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+424 Loc=10000024 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+425 Loc=10000024 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+426 Loc=10000024 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+427 Loc=10000024 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+428 Loc=10000024 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+429 Loc=10000024 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+430 Loc=10000024 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+431 Loc=10000024 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+432 Loc=10000025 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+433 Loc=10000025 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+434 Loc=10000025 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+435 Loc=10000025 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+436 Loc=10000025 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+437 Loc=10000025 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+438 Loc=10000025 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+439 Loc=10000025 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+440 Loc=10000025 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+441 Loc=10000025 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+442 Loc=10000025 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+443 Loc=10000025 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+444 Loc=10000025 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+445 Loc=10000025 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+446 Loc=10000025 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+447 Loc=10000025 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+448 Loc=10000025 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+449 Loc=10000025 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+450 Loc=10000025 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+451 Loc=10000025 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+452 Loc=10000026 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+453 Loc=10000026 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+454 Loc=10000026 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+455 Loc=10000026 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+456 Loc=10000026 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+457 Loc=10000026 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+458 Loc=10000026 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+459 Loc=10000026 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+460 Loc=10000026 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+461 Loc=10000026 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+462 Loc=10000026 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+463 Loc=10000026 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+464 Loc=10000026 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+465 Loc=10000026 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+466 Loc=10000026 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+467 Loc=10000026 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+468 Loc=10000026 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+469 Loc=10000026 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+470 Loc=10000026 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+471 Loc=10000026 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+472 Loc=10000027 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+473 Loc=10000027 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+474 Loc=10000027 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+475 Loc=10000027 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+476 Loc=10000027 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+477 Loc=10000027 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+478 Loc=10000027 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+479 Loc=10000027 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+480 Loc=10000027 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+481 Loc=10000027 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+482 Loc=10000027 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+483 Loc=10000027 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+484 Loc=10000027 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+485 Loc=10000027 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+486 Loc=10000027 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+487 Loc=10000027 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+488 Loc=10000027 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+489 Loc=10000027 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+490 Loc=10000027 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+491 Loc=10000028 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+492 Loc=10000028 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+493 Loc=10000028 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+494 Loc=10000028 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+495 Loc=10000028 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+496 Loc=10000028 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+497 Loc=10000028 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+498 Loc=10000028 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+499 Loc=10000028 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+500 Loc=10000028 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+501 Loc=10000028 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+502 Loc=10000028 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+503 Loc=10000028 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+504 Loc=10000028 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+505 Loc=10000028 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+506 Loc=10000029 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+507 Loc=10000029 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+508 Loc=10000029 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+509 Loc=10000029 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+510 Loc=10000029 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+511 Loc=10000029 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+512 Loc=10000029 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+513 Loc=10000029 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+514 Loc=10000029 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+515 Loc=10000029 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+516 Loc=10000029 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+517 Loc=10000029 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+518 Loc=10000029 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+519 Loc=10000029 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+520 Loc=10000029 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+521 Loc=10000029 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+522 Loc=10000030 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+523 Loc=10000030 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+524 Loc=10000030 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+525 Loc=10000030 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+526 Loc=10000030 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+527 Loc=10000030 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+528 Loc=10000030 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+529 Loc=10000030 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+530 Loc=10000030 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+531 Loc=10000030 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+532 Loc=10000030 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+533 Loc=10000030 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+534 Loc=10000030 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+535 Loc=10000030 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+536 Loc=10000030 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+537 Loc=10000031 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+538 Loc=10000031 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+539 Loc=10000031 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+540 Loc=10000031 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+541 Loc=10000031 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+542 Loc=10000031 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+543 Loc=10000031 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+544 Loc=10000031 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+545 Loc=10000031 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+546 Loc=10000031 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+547 Loc=10000031 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+548 Loc=10000031 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+549 Loc=10000031 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+550 Loc=10000031 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+551 Loc=10000031 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+552 Loc=10000031 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+553 Loc=10000031 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+554 Loc=10000032 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+555 Loc=10000032 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+556 Loc=10000032 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+557 Loc=10000032 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+558 Loc=10000032 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+559 Loc=10000032 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+560 Loc=10000032 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+561 Loc=10000032 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+562 Loc=10000032 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+563 Loc=10000032 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+564 Loc=10000032 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+565 Loc=10000032 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+566 Loc=10000032 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+567 Loc=10000032 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+568 Loc=10000032 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+569 Loc=10000032 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+570 Loc=10000032 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+571 Loc=10000032 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+572 Loc=10000032 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+573 Loc=10000033 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+574 Loc=10000033 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+575 Loc=10000033 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+576 Loc=10000033 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+577 Loc=10000033 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+578 Loc=10000033 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+579 Loc=10000033 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+580 Loc=10000033 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+581 Loc=10000033 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+582 Loc=10000033 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+583 Loc=10000033 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+584 Loc=10000033 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+585 Loc=10000033 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+586 Loc=10000033 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+587 Loc=10000033 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+588 Loc=10000034 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+589 Loc=10000034 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+590 Loc=10000034 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+591 Loc=10000034 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+592 Loc=10000034 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+593 Loc=10000034 Name=Air Conditioner - 10000 BTU OnW=1000 OffW=100 ProbOn=0.25 Reduce%=0.5
+594 Loc=10000034 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+595 Loc=10000034 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+596 Loc=10000034 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+597 Loc=10000034 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+598 Loc=10000034 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+599 Loc=10000034 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+600 Loc=10000034 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+601 Loc=10000034 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+602 Loc=10000034 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+603 Loc=10000034 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+604 Loc=10000034 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+605 Loc=10000034 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+606 Loc=10000034 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+607 Loc=10000034 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+608 Loc=10000035 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+609 Loc=10000035 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+610 Loc=10000035 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+611 Loc=10000035 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+612 Loc=10000035 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+613 Loc=10000035 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+614 Loc=10000035 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+615 Loc=10000035 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+616 Loc=10000035 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+617 Loc=10000035 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+618 Loc=10000035 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+619 Loc=10000035 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+620 Loc=10000035 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+621 Loc=10000035 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+622 Loc=10000035 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+623 Loc=10000035 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+624 Loc=10000035 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+625 Loc=10000035 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+626 Loc=10000035 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+627 Loc=10000036 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+628 Loc=10000036 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+629 Loc=10000036 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+630 Loc=10000036 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+631 Loc=10000036 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+632 Loc=10000036 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+633 Loc=10000036 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+634 Loc=10000036 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+635 Loc=10000036 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+636 Loc=10000036 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+637 Loc=10000036 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+638 Loc=10000036 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+639 Loc=10000036 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+640 Loc=10000036 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+641 Loc=10000036 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+642 Loc=10000036 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+643 Loc=10000036 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+644 Loc=10000036 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+645 Loc=10000036 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+646 Loc=10000037 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+647 Loc=10000037 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+648 Loc=10000037 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+649 Loc=10000037 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+650 Loc=10000037 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+651 Loc=10000037 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+652 Loc=10000037 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+653 Loc=10000037 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+654 Loc=10000037 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+655 Loc=10000037 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+656 Loc=10000037 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+657 Loc=10000037 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+658 Loc=10000037 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+659 Loc=10000037 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+660 Loc=10000037 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+661 Loc=10000037 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+662 Loc=10000037 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+663 Loc=10000037 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+664 Loc=10000037 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+665 Loc=10000037 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+666 Loc=10000038 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+667 Loc=10000038 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+668 Loc=10000038 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+669 Loc=10000038 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+670 Loc=10000038 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+671 Loc=10000038 Name=Television - 55 inch OnW=220 OffW=5 ProbOn=0.167
+672 Loc=10000038 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+673 Loc=10000038 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+674 Loc=10000038 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+675 Loc=10000038 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+676 Loc=10000038 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+677 Loc=10000038 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+678 Loc=10000038 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+679 Loc=10000038 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+680 Loc=10000038 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+681 Loc=10000038 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+682 Loc=10000038 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+683 Loc=10000038 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+684 Loc=10000038 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+685 Loc=10000038 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+686 Loc=10000039 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+687 Loc=10000039 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+688 Loc=10000039 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+689 Loc=10000039 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+690 Loc=10000039 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+691 Loc=10000039 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+692 Loc=10000039 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+693 Loc=10000039 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+694 Loc=10000039 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+695 Loc=10000039 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+696 Loc=10000039 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+697 Loc=10000039 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+698 Loc=10000039 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+699 Loc=10000039 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+700 Loc=10000039 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+701 Loc=10000039 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+702 Loc=10000039 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+703 Loc=10000039 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+704 Loc=10000039 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+705 Loc=10000040 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+706 Loc=10000040 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+707 Loc=10000040 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+708 Loc=10000040 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+709 Loc=10000040 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+710 Loc=10000040 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+711 Loc=10000040 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+712 Loc=10000040 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+713 Loc=10000040 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+714 Loc=10000040 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+715 Loc=10000040 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+716 Loc=10000040 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+717 Loc=10000040 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+718 Loc=10000040 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+719 Loc=10000040 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+720 Loc=10000040 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+721 Loc=10000040 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+722 Loc=10000040 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+723 Loc=10000040 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+724 Loc=10000040 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+725 Loc=10000041 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+726 Loc=10000041 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+727 Loc=10000041 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+728 Loc=10000041 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+729 Loc=10000041 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+730 Loc=10000041 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+731 Loc=10000041 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+732 Loc=10000041 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+733 Loc=10000041 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+734 Loc=10000041 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+735 Loc=10000041 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+736 Loc=10000041 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+737 Loc=10000041 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+738 Loc=10000041 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+739 Loc=10000041 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+740 Loc=10000041 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+741 Loc=10000041 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+742 Loc=10000041 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+743 Loc=10000042 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+744 Loc=10000042 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+745 Loc=10000042 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+746 Loc=10000042 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+747 Loc=10000042 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+748 Loc=10000042 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+749 Loc=10000042 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+750 Loc=10000042 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+751 Loc=10000042 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+752 Loc=10000042 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+753 Loc=10000042 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+754 Loc=10000042 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+755 Loc=10000042 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+756 Loc=10000042 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+757 Loc=10000042 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+758 Loc=10000042 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+759 Loc=10000042 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+760 Loc=10000042 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+761 Loc=10000042 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+762 Loc=10000043 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+763 Loc=10000043 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+764 Loc=10000043 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+765 Loc=10000043 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+766 Loc=10000043 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+767 Loc=10000043 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+768 Loc=10000043 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+769 Loc=10000043 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+770 Loc=10000043 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+771 Loc=10000043 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+772 Loc=10000043 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+773 Loc=10000043 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+774 Loc=10000043 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+775 Loc=10000043 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+776 Loc=10000043 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+777 Loc=10000044 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+778 Loc=10000044 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+779 Loc=10000044 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+780 Loc=10000044 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+781 Loc=10000044 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+782 Loc=10000044 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+783 Loc=10000044 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+784 Loc=10000044 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+785 Loc=10000044 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+786 Loc=10000044 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+787 Loc=10000044 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+788 Loc=10000044 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+789 Loc=10000044 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+790 Loc=10000044 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+791 Loc=10000044 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+792 Loc=10000044 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+793 Loc=10000044 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+794 Loc=10000045 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+795 Loc=10000045 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+796 Loc=10000045 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+797 Loc=10000045 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+798 Loc=10000045 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+799 Loc=10000045 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+800 Loc=10000045 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+801 Loc=10000045 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+802 Loc=10000045 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+803 Loc=10000045 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+804 Loc=10000045 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+805 Loc=10000045 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+806 Loc=10000045 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+807 Loc=10000045 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+808 Loc=10000045 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+809 Loc=10000046 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+810 Loc=10000046 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+811 Loc=10000046 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+812 Loc=10000046 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+813 Loc=10000046 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+814 Loc=10000046 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+815 Loc=10000046 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+816 Loc=10000046 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+817 Loc=10000046 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+818 Loc=10000046 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+819 Loc=10000046 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+820 Loc=10000046 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+821 Loc=10000046 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+822 Loc=10000046 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+823 Loc=10000046 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+824 Loc=10000046 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+825 Loc=10000046 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+826 Loc=10000046 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+827 Loc=10000046 Name=Television - 55 inch OnW=220 OffW=5 ProbOn=0.167
+828 Loc=10000046 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+829 Loc=10000047 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+830 Loc=10000047 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+831 Loc=10000047 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+832 Loc=10000047 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+833 Loc=10000047 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+834 Loc=10000047 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+835 Loc=10000047 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+836 Loc=10000047 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+837 Loc=10000047 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+838 Loc=10000047 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+839 Loc=10000047 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+840 Loc=10000047 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+841 Loc=10000047 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+842 Loc=10000047 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+843 Loc=10000047 Name=Television - 55 inch OnW=220 OffW=5 ProbOn=0.167
+844 Loc=10000047 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+845 Loc=10000047 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+846 Loc=10000048 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+847 Loc=10000048 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+848 Loc=10000048 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+849 Loc=10000048 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+850 Loc=10000048 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+851 Loc=10000048 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+852 Loc=10000048 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+853 Loc=10000048 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+854 Loc=10000048 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+855 Loc=10000048 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+856 Loc=10000048 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+857 Loc=10000048 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+858 Loc=10000048 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+859 Loc=10000048 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+860 Loc=10000048 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+861 Loc=10000048 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+862 Loc=10000049 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+863 Loc=10000049 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+864 Loc=10000049 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+865 Loc=10000049 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+866 Loc=10000049 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+867 Loc=10000049 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+868 Loc=10000049 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+869 Loc=10000049 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+870 Loc=10000049 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+871 Loc=10000049 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+872 Loc=10000049 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+873 Loc=10000049 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+874 Loc=10000049 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+875 Loc=10000049 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+876 Loc=10000049 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+877 Loc=10000049 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+878 Loc=10000049 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+879 Loc=10000049 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+880 Loc=10000050 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+881 Loc=10000050 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+882 Loc=10000050 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+883 Loc=10000050 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+884 Loc=10000050 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+885 Loc=10000050 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+886 Loc=10000050 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+887 Loc=10000050 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+888 Loc=10000050 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+889 Loc=10000050 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+890 Loc=10000050 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+891 Loc=10000050 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+892 Loc=10000050 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+893 Loc=10000050 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+894 Loc=10000050 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+895 Loc=10000050 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+896 Loc=10000051 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+897 Loc=10000051 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+898 Loc=10000051 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+899 Loc=10000051 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+900 Loc=10000051 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+901 Loc=10000051 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+902 Loc=10000051 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+903 Loc=10000051 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+904 Loc=10000051 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+905 Loc=10000051 Name=Air Conditioner - 10000 BTU OnW=1000 OffW=100 ProbOn=0.25 Reduce%=0.5
+906 Loc=10000051 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+907 Loc=10000051 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+908 Loc=10000051 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+909 Loc=10000051 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+910 Loc=10000051 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+911 Loc=10000051 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+912 Loc=10000052 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+913 Loc=10000052 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+914 Loc=10000052 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+915 Loc=10000052 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+916 Loc=10000052 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+917 Loc=10000052 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+918 Loc=10000052 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+919 Loc=10000052 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+920 Loc=10000052 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+921 Loc=10000052 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+922 Loc=10000052 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+923 Loc=10000052 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+924 Loc=10000052 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+925 Loc=10000052 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+926 Loc=10000052 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+927 Loc=10000052 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+928 Loc=10000053 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+929 Loc=10000053 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+930 Loc=10000053 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+931 Loc=10000053 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+932 Loc=10000053 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+933 Loc=10000053 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+934 Loc=10000053 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+935 Loc=10000053 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+936 Loc=10000053 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+937 Loc=10000053 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+938 Loc=10000053 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+939 Loc=10000053 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+940 Loc=10000053 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+941 Loc=10000053 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+942 Loc=10000053 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+943 Loc=10000053 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+944 Loc=10000053 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+945 Loc=10000053 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+946 Loc=10000053 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+947 Loc=10000053 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+948 Loc=10000054 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+949 Loc=10000054 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+950 Loc=10000054 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+951 Loc=10000054 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+952 Loc=10000054 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+953 Loc=10000054 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+954 Loc=10000054 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+955 Loc=10000054 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+956 Loc=10000054 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+957 Loc=10000054 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+958 Loc=10000054 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+959 Loc=10000054 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+960 Loc=10000054 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+961 Loc=10000054 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+962 Loc=10000054 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+963 Loc=10000054 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+964 Loc=10000054 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+965 Loc=10000055 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+966 Loc=10000055 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+967 Loc=10000055 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+968 Loc=10000055 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+969 Loc=10000055 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+970 Loc=10000055 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+971 Loc=10000055 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+972 Loc=10000055 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+973 Loc=10000055 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+974 Loc=10000055 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+975 Loc=10000055 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+976 Loc=10000055 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+977 Loc=10000055 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+978 Loc=10000055 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+979 Loc=10000055 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+980 Loc=10000055 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+981 Loc=10000055 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+982 Loc=10000055 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+983 Loc=10000055 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+984 Loc=10000055 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+985 Loc=10000056 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+986 Loc=10000056 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+987 Loc=10000056 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+988 Loc=10000056 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+989 Loc=10000056 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+990 Loc=10000056 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+991 Loc=10000056 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+992 Loc=10000056 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+993 Loc=10000056 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+994 Loc=10000056 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+995 Loc=10000056 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+996 Loc=10000056 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+997 Loc=10000056 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+998 Loc=10000056 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+999 Loc=10000056 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+1000 Loc=10000056 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+1001 Loc=10000057 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+1002 Loc=10000057 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+1003 Loc=10000057 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+1004 Loc=10000057 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1005 Loc=10000057 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+1006 Loc=10000057 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+1007 Loc=10000057 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1008 Loc=10000057 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+1009 Loc=10000057 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1010 Loc=10000057 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1011 Loc=10000057 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+1012 Loc=10000057 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+1013 Loc=10000057 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1014 Loc=10000057 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1015 Loc=10000057 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+1016 Loc=10000057 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1017 Loc=10000058 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1018 Loc=10000058 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1019 Loc=10000058 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+1020 Loc=10000058 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+1021 Loc=10000058 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+1022 Loc=10000058 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+1023 Loc=10000058 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+1024 Loc=10000058 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1025 Loc=10000058 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+1026 Loc=10000058 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1027 Loc=10000058 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+1028 Loc=10000058 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+1029 Loc=10000058 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+1030 Loc=10000058 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+1031 Loc=10000058 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+1032 Loc=10000058 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1033 Loc=10000058 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1034 Loc=10000058 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1035 Loc=10000059 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+1036 Loc=10000059 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+1037 Loc=10000059 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+1038 Loc=10000059 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+1039 Loc=10000059 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1040 Loc=10000059 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1041 Loc=10000059 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+1042 Loc=10000059 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+1043 Loc=10000059 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+1044 Loc=10000059 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+1045 Loc=10000059 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1046 Loc=10000059 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1047 Loc=10000059 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+1048 Loc=10000059 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1049 Loc=10000059 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1050 Loc=10000059 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+1051 Loc=10000059 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1052 Loc=10000059 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+1053 Loc=10000059 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+1054 Loc=10000060 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+1055 Loc=10000060 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1056 Loc=10000060 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1057 Loc=10000060 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+1058 Loc=10000060 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+1059 Loc=10000060 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1060 Loc=10000060 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+1061 Loc=10000060 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+1062 Loc=10000060 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1063 Loc=10000060 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+1064 Loc=10000060 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+1065 Loc=10000060 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+1066 Loc=10000060 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+1067 Loc=10000060 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+1068 Loc=10000060 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1069 Loc=10000060 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1070 Loc=10000060 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1071 Loc=10000060 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1072 Loc=10000060 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+1073 Loc=10000060 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+1074 Loc=10000061 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1075 Loc=10000061 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1076 Loc=10000061 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+1077 Loc=10000061 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+1078 Loc=10000061 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+1079 Loc=10000061 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+1080 Loc=10000061 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+1081 Loc=10000061 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1082 Loc=10000061 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+1083 Loc=10000061 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+1084 Loc=10000061 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1085 Loc=10000061 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+1086 Loc=10000061 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+1087 Loc=10000061 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1088 Loc=10000061 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+1089 Loc=10000062 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1090 Loc=10000062 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1091 Loc=10000062 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+1092 Loc=10000062 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+1093 Loc=10000062 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+1094 Loc=10000062 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1095 Loc=10000062 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+1096 Loc=10000062 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1097 Loc=10000062 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1098 Loc=10000062 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1099 Loc=10000062 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1100 Loc=10000062 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1101 Loc=10000062 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+1102 Loc=10000062 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+1103 Loc=10000062 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1104 Loc=10000062 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+1105 Loc=10000062 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1106 Loc=10000062 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+1107 Loc=10000062 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+1108 Loc=10000062 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+1109 Loc=10000063 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+1110 Loc=10000063 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+1111 Loc=10000063 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1112 Loc=10000063 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+1113 Loc=10000063 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1114 Loc=10000063 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1115 Loc=10000063 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+1116 Loc=10000063 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+1117 Loc=10000063 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+1118 Loc=10000063 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1119 Loc=10000063 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1120 Loc=10000063 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+1121 Loc=10000063 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1122 Loc=10000063 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1123 Loc=10000063 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+1124 Loc=10000063 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1125 Loc=10000063 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1126 Loc=10000063 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1127 Loc=10000063 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1128 Loc=10000064 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+1129 Loc=10000064 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+1130 Loc=10000064 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+1131 Loc=10000064 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1132 Loc=10000064 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1133 Loc=10000064 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+1134 Loc=10000064 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+1135 Loc=10000064 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1136 Loc=10000064 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+1137 Loc=10000064 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+1138 Loc=10000064 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1139 Loc=10000064 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+1140 Loc=10000064 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+1141 Loc=10000064 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+1142 Loc=10000064 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+1143 Loc=10000064 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1144 Loc=10000065 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+1145 Loc=10000065 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1146 Loc=10000065 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+1147 Loc=10000065 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1148 Loc=10000065 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+1149 Loc=10000065 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1150 Loc=10000065 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+1151 Loc=10000065 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+1152 Loc=10000065 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1153 Loc=10000065 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1154 Loc=10000065 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+1155 Loc=10000065 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1156 Loc=10000065 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+1157 Loc=10000065 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1158 Loc=10000065 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+1159 Loc=10000065 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+1160 Loc=10000065 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1161 Loc=10000066 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+1162 Loc=10000066 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1163 Loc=10000066 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1164 Loc=10000066 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1165 Loc=10000066 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1166 Loc=10000066 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+1167 Loc=10000066 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+1168 Loc=10000066 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1169 Loc=10000066 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+1170 Loc=10000066 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+1171 Loc=10000066 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+1172 Loc=10000066 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+1173 Loc=10000066 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1174 Loc=10000066 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+1175 Loc=10000066 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+1176 Loc=10000066 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+1177 Loc=10000066 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+1178 Loc=10000066 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+1179 Loc=10000066 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+1180 Loc=10000067 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1181 Loc=10000067 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+1182 Loc=10000067 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+1183 Loc=10000067 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1184 Loc=10000067 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1185 Loc=10000067 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+1186 Loc=10000067 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+1187 Loc=10000067 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+1188 Loc=10000067 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1189 Loc=10000067 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+1190 Loc=10000067 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1191 Loc=10000067 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1192 Loc=10000067 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1193 Loc=10000067 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+1194 Loc=10000067 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+1195 Loc=10000067 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1196 Loc=10000067 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1197 Loc=10000067 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+1198 Loc=10000067 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+1199 Loc=10000067 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+1200 Loc=10000068 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1201 Loc=10000068 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1202 Loc=10000068 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+1203 Loc=10000068 Name=Air Conditioner - 10000 BTU OnW=1000 OffW=100 ProbOn=0.25 Reduce%=0.5
+1204 Loc=10000068 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1205 Loc=10000068 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1206 Loc=10000068 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1207 Loc=10000068 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1208 Loc=10000068 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+1209 Loc=10000068 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+1210 Loc=10000068 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1211 Loc=10000068 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+1212 Loc=10000068 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+1213 Loc=10000068 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1214 Loc=10000068 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+1215 Loc=10000069 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+1216 Loc=10000069 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+1217 Loc=10000069 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1218 Loc=10000069 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1219 Loc=10000069 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1220 Loc=10000069 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1221 Loc=10000069 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+1222 Loc=10000069 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1223 Loc=10000069 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1224 Loc=10000069 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+1225 Loc=10000069 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+1226 Loc=10000069 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1227 Loc=10000069 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+1228 Loc=10000069 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+1229 Loc=10000069 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1230 Loc=10000070 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+1231 Loc=10000070 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1232 Loc=10000070 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1233 Loc=10000070 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+1234 Loc=10000070 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1235 Loc=10000070 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+1236 Loc=10000070 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1237 Loc=10000070 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+1238 Loc=10000070 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1239 Loc=10000070 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1240 Loc=10000070 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1241 Loc=10000070 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+1242 Loc=10000070 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1243 Loc=10000070 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1244 Loc=10000070 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+1245 Loc=10000070 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+1246 Loc=10000070 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+1247 Loc=10000070 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1248 Loc=10000070 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+1249 Loc=10000071 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+1250 Loc=10000071 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+1251 Loc=10000071 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+1252 Loc=10000071 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1253 Loc=10000071 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+1254 Loc=10000071 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1255 Loc=10000071 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+1256 Loc=10000071 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+1257 Loc=10000071 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+1258 Loc=10000071 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+1259 Loc=10000071 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+1260 Loc=10000071 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1261 Loc=10000071 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1262 Loc=10000071 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1263 Loc=10000071 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1264 Loc=10000071 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1265 Loc=10000071 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1266 Loc=10000071 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1267 Loc=10000071 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+1268 Loc=10000072 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+1269 Loc=10000072 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1270 Loc=10000072 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1271 Loc=10000072 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1272 Loc=10000072 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+1273 Loc=10000072 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+1274 Loc=10000072 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1275 Loc=10000072 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+1276 Loc=10000072 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1277 Loc=10000072 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+1278 Loc=10000072 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+1279 Loc=10000072 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1280 Loc=10000072 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+1281 Loc=10000072 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1282 Loc=10000072 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+1283 Loc=10000072 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+1284 Loc=10000072 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1285 Loc=10000073 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+1286 Loc=10000073 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1287 Loc=10000073 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+1288 Loc=10000073 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+1289 Loc=10000073 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+1290 Loc=10000073 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1291 Loc=10000073 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+1292 Loc=10000073 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1293 Loc=10000073 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1294 Loc=10000073 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+1295 Loc=10000073 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+1296 Loc=10000073 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+1297 Loc=10000073 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+1298 Loc=10000073 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+1299 Loc=10000073 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1300 Loc=10000073 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1301 Loc=10000074 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+1302 Loc=10000074 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1303 Loc=10000074 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+1304 Loc=10000074 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1305 Loc=10000074 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1306 Loc=10000074 Name=Television - 55 inch OnW=220 OffW=5 ProbOn=0.167
+1307 Loc=10000074 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1308 Loc=10000074 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+1309 Loc=10000074 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+1310 Loc=10000074 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1311 Loc=10000074 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+1312 Loc=10000074 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1313 Loc=10000074 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1314 Loc=10000074 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1315 Loc=10000074 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1316 Loc=10000074 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1317 Loc=10000074 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+1318 Loc=10000074 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+1319 Loc=10000074 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1320 Loc=10000075 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1321 Loc=10000075 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+1322 Loc=10000075 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+1323 Loc=10000075 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1324 Loc=10000075 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+1325 Loc=10000075 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+1326 Loc=10000075 Name=Television - 55 inch OnW=220 OffW=5 ProbOn=0.167
+1327 Loc=10000075 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1328 Loc=10000075 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+1329 Loc=10000075 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1330 Loc=10000075 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+1331 Loc=10000075 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+1332 Loc=10000075 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1333 Loc=10000075 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1334 Loc=10000075 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1335 Loc=10000076 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+1336 Loc=10000076 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1337 Loc=10000076 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+1338 Loc=10000076 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+1339 Loc=10000076 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+1340 Loc=10000076 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+1341 Loc=10000076 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1342 Loc=10000076 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+1343 Loc=10000076 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+1344 Loc=10000076 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1345 Loc=10000076 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1346 Loc=10000076 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1347 Loc=10000076 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1348 Loc=10000076 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+1349 Loc=10000076 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1350 Loc=10000076 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+1351 Loc=10000076 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+1352 Loc=10000076 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1353 Loc=10000077 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1354 Loc=10000077 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+1355 Loc=10000077 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1356 Loc=10000077 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+1357 Loc=10000077 Name=Bug Killer OnW=40 OffW=0 ProbOn=0.5
+1358 Loc=10000077 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1359 Loc=10000077 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1360 Loc=10000077 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+1361 Loc=10000077 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+1362 Loc=10000077 Name=Television - 55 inch OnW=220 OffW=5 ProbOn=0.167
+1363 Loc=10000077 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1364 Loc=10000077 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1365 Loc=10000077 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1366 Loc=10000077 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1367 Loc=10000077 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+1368 Loc=10000077 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1369 Loc=10000077 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+1370 Loc=10000077 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1371 Loc=10000078 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+1372 Loc=10000078 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+1373 Loc=10000078 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1374 Loc=10000078 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1375 Loc=10000078 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+1376 Loc=10000078 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+1377 Loc=10000078 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1378 Loc=10000078 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1379 Loc=10000078 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+1380 Loc=10000078 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1381 Loc=10000078 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1382 Loc=10000078 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+1383 Loc=10000078 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+1384 Loc=10000078 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+1385 Loc=10000078 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+1386 Loc=10000079 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1387 Loc=10000079 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1388 Loc=10000079 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1389 Loc=10000079 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+1390 Loc=10000079 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1391 Loc=10000079 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1392 Loc=10000079 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+1393 Loc=10000079 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+1394 Loc=10000079 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1395 Loc=10000079 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+1396 Loc=10000079 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+1397 Loc=10000079 Name=Air Conditioner - 10000 BTU OnW=1000 OffW=100 ProbOn=0.25 Reduce%=0.5
+1398 Loc=10000079 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1399 Loc=10000079 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+1400 Loc=10000079 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1401 Loc=10000079 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+1402 Loc=10000079 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+1403 Loc=10000079 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1404 Loc=10000080 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+1405 Loc=10000080 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1406 Loc=10000080 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1407 Loc=10000080 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+1408 Loc=10000080 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1409 Loc=10000080 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+1410 Loc=10000080 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1411 Loc=10000080 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1412 Loc=10000080 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+1413 Loc=10000080 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+1414 Loc=10000080 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+1415 Loc=10000080 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+1416 Loc=10000080 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+1417 Loc=10000080 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1418 Loc=10000080 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+1419 Loc=10000080 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+1420 Loc=10000080 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+1421 Loc=10000080 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1422 Loc=10000080 Name=Computer Printer (Printing) OnW=600 OffW=10 ProbOn=0.01
+1423 Loc=10000081 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1424 Loc=10000081 Name=Television - 55 inch OnW=220 OffW=5 ProbOn=0.167
+1425 Loc=10000081 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1426 Loc=10000081 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1427 Loc=10000081 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+1428 Loc=10000081 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1429 Loc=10000081 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+1430 Loc=10000081 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+1431 Loc=10000081 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+1432 Loc=10000081 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1433 Loc=10000081 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+1434 Loc=10000081 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+1435 Loc=10000081 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+1436 Loc=10000081 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1437 Loc=10000081 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+1438 Loc=10000081 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+1439 Loc=10000082 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1440 Loc=10000082 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+1441 Loc=10000082 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+1442 Loc=10000082 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1443 Loc=10000082 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+1444 Loc=10000082 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+1445 Loc=10000082 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+1446 Loc=10000082 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+1447 Loc=10000082 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+1448 Loc=10000082 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1449 Loc=10000082 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+1450 Loc=10000082 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1451 Loc=10000082 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1452 Loc=10000082 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+1453 Loc=10000082 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1454 Loc=10000082 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1455 Loc=10000082 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1456 Loc=10000082 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1457 Loc=10000082 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1458 Loc=10000082 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1459 Loc=10000083 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+1460 Loc=10000083 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+1461 Loc=10000083 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1462 Loc=10000083 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+1463 Loc=10000083 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+1464 Loc=10000083 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+1465 Loc=10000083 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+1466 Loc=10000083 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1467 Loc=10000083 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1468 Loc=10000083 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+1469 Loc=10000083 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1470 Loc=10000083 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+1471 Loc=10000083 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+1472 Loc=10000083 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1473 Loc=10000083 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+1474 Loc=10000083 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+1475 Loc=10000084 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1476 Loc=10000084 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1477 Loc=10000084 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1478 Loc=10000084 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+1479 Loc=10000084 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+1480 Loc=10000084 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+1481 Loc=10000084 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+1482 Loc=10000084 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+1483 Loc=10000084 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+1484 Loc=10000084 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+1485 Loc=10000084 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1486 Loc=10000084 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1487 Loc=10000084 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+1488 Loc=10000084 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+1489 Loc=10000084 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+1490 Loc=10000084 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+1491 Loc=10000085 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1492 Loc=10000085 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+1493 Loc=10000085 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+1494 Loc=10000085 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1495 Loc=10000085 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1496 Loc=10000085 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1497 Loc=10000085 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1498 Loc=10000085 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+1499 Loc=10000085 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1500 Loc=10000085 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+1501 Loc=10000085 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+1502 Loc=10000085 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1503 Loc=10000085 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1504 Loc=10000085 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1505 Loc=10000085 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+1506 Loc=10000085 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+1507 Loc=10000086 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1508 Loc=10000086 Name=Telephone - Cordless OnW=5 OffW=0 ProbOn=1.0
+1509 Loc=10000086 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+1510 Loc=10000086 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1511 Loc=10000086 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1512 Loc=10000086 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+1513 Loc=10000086 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+1514 Loc=10000086 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+1515 Loc=10000086 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+1516 Loc=10000086 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1517 Loc=10000086 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+1518 Loc=10000086 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+1519 Loc=10000086 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1520 Loc=10000086 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+1521 Loc=10000086 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+1522 Loc=10000086 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1523 Loc=10000086 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+1524 Loc=10000086 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+1525 Loc=10000086 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+1526 Loc=10000086 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+1527 Loc=10000087 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1528 Loc=10000087 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1529 Loc=10000087 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1530 Loc=10000087 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1531 Loc=10000087 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1532 Loc=10000087 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+1533 Loc=10000087 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1534 Loc=10000087 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1535 Loc=10000087 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1536 Loc=10000087 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+1537 Loc=10000087 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+1538 Loc=10000087 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1539 Loc=10000087 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+1540 Loc=10000087 Name=Dishwasher (With Dry Cycle) OnW=1000 OffW=0 ProbOn=0.025 Reduce%=0.25
+1541 Loc=10000087 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+1542 Loc=10000087 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1543 Loc=10000087 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+1544 Loc=10000087 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+1545 Loc=10000087 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1546 Loc=10000087 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+1547 Loc=10000088 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1548 Loc=10000088 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+1549 Loc=10000088 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+1550 Loc=10000088 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+1551 Loc=10000088 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+1552 Loc=10000088 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+1553 Loc=10000088 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1554 Loc=10000088 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1555 Loc=10000088 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+1556 Loc=10000088 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+1557 Loc=10000088 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+1558 Loc=10000088 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1559 Loc=10000088 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+1560 Loc=10000088 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+1561 Loc=10000088 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+1562 Loc=10000088 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1563 Loc=10000088 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1564 Loc=10000088 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+1565 Loc=10000088 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1566 Loc=10000089 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+1567 Loc=10000089 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1568 Loc=10000089 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1569 Loc=10000089 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+1570 Loc=10000089 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1571 Loc=10000089 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+1572 Loc=10000089 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+1573 Loc=10000089 Name=Oven OnW=5000 OffW=5 ProbOn=0.01
+1574 Loc=10000089 Name=Refrigerator - 14 cu. ft. OnW=226 OffW=0 ProbOn=1.0 Reduce%=0.25
+1575 Loc=10000089 Name=Television - 27 inch OnW=125 OffW=5 ProbOn=0.167
+1576 Loc=10000089 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1577 Loc=10000089 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+1578 Loc=10000089 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1579 Loc=10000089 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1580 Loc=10000089 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+1581 Loc=10000089 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+1582 Loc=10000090 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1583 Loc=10000090 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+1584 Loc=10000090 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1585 Loc=10000090 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+1586 Loc=10000090 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+1587 Loc=10000090 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+1588 Loc=10000090 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+1589 Loc=10000090 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1590 Loc=10000090 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1591 Loc=10000090 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+1592 Loc=10000090 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+1593 Loc=10000090 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+1594 Loc=10000090 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1595 Loc=10000090 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+1596 Loc=10000090 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1597 Loc=10000090 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+1598 Loc=10000090 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1599 Loc=10000091 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+1600 Loc=10000091 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+1601 Loc=10000091 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+1602 Loc=10000091 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+1603 Loc=10000091 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+1604 Loc=10000091 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1605 Loc=10000091 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1606 Loc=10000091 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+1607 Loc=10000091 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1608 Loc=10000091 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+1609 Loc=10000091 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+1610 Loc=10000091 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+1611 Loc=10000091 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+1612 Loc=10000091 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1613 Loc=10000091 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1614 Loc=10000091 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+1615 Loc=10000091 Name=Air Conditioner - 10000 BTU OnW=1000 OffW=100 ProbOn=0.25 Reduce%=0.5
+1616 Loc=10000091 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1617 Loc=10000091 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+1618 Loc=10000091 Name=Electric Frying Pan OnW=1500 OffW=0 ProbOn=0.01
+1619 Loc=10000092 Name=Television - 32 inch OnW=130 OffW=5 ProbOn=0.167
+1620 Loc=10000092 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+1621 Loc=10000092 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1622 Loc=10000092 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+1623 Loc=10000092 Name=Television - 55 inch OnW=220 OffW=5 ProbOn=0.167
+1624 Loc=10000092 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1625 Loc=10000092 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+1626 Loc=10000092 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+1627 Loc=10000092 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+1628 Loc=10000092 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1629 Loc=10000092 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+1630 Loc=10000092 Name=Stereo OnW=75 OffW=5 ProbOn=0.25
+1631 Loc=10000092 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1632 Loc=10000092 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1633 Loc=10000092 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+1634 Loc=10000092 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+1635 Loc=10000092 Name=Television - 25 inch OnW=123 OffW=5 ProbOn=0.167
+1636 Loc=10000092 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+1637 Loc=10000092 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+1638 Loc=10000093 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+1639 Loc=10000093 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1640 Loc=10000093 Name=Lighting - Fluorescent 2 bulb OnW=100 OffW=0 ProbOn=0.33
+1641 Loc=10000093 Name=Television - 36 inch OnW=133 OffW=5 ProbOn=0.167
+1642 Loc=10000093 Name=Lighting - 75 Watt OnW=75 OffW=0 ProbOn=0.33
+1643 Loc=10000093 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+1644 Loc=10000093 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+1645 Loc=10000093 Name=Hair Dryer (Hand Held) OnW=1500 OffW=0 ProbOn=0.01 Reduce%=0.25
+1646 Loc=10000093 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1647 Loc=10000093 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+1648 Loc=10000093 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1649 Loc=10000093 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+1650 Loc=10000093 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+1651 Loc=10000093 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+1652 Loc=10000093 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+1653 Loc=10000094 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+1654 Loc=10000094 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1655 Loc=10000094 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1656 Loc=10000094 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1657 Loc=10000094 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1658 Loc=10000094 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+1659 Loc=10000094 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+1660 Loc=10000094 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+1661 Loc=10000094 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+1662 Loc=10000094 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+1663 Loc=10000094 Name=Lighting - Chandelier 5 - 40 Watt Bulbs OnW=200 OffW=0 ProbOn=0.33
+1664 Loc=10000094 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1665 Loc=10000094 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+1666 Loc=10000094 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1667 Loc=10000094 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+1668 Loc=10000094 Name=Lighting - 60 Watt OnW=60 OffW=0 ProbOn=0.33
+1669 Loc=10000094 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1670 Loc=10000095 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+1671 Loc=10000095 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1672 Loc=10000095 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+1673 Loc=10000095 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+1674 Loc=10000095 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1675 Loc=10000095 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1676 Loc=10000095 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+1677 Loc=10000095 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1678 Loc=10000095 Name=Lighting - Comp Fluorescent - 18 Watt OnW=18 OffW=0 ProbOn=0.33
+1679 Loc=10000095 Name=Lighting - Halogen OnW=90 OffW=0 ProbOn=0.33
+1680 Loc=10000095 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1681 Loc=10000095 Name=Refrigerator - Freezer 25 cu. ft. - Side by Side OnW=841 OffW=0 ProbOn=1.0 Reduce%=0.25
+1682 Loc=10000095 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1683 Loc=10000095 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1684 Loc=10000095 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+1685 Loc=10000095 Name=Television/DVD/VCR Combination OnW=120 OffW=5 ProbOn=0.167
+1686 Loc=10000095 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1687 Loc=10000095 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+1688 Loc=10000095 Name=Lawn Mower OnW=3000 OffW=0 ProbOn=0.01
+1689 Loc=10000095 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+1690 Loc=10000096 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
+1691 Loc=10000096 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+1692 Loc=10000096 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+1693 Loc=10000096 Name=Freezer - Upright/Chest 17 cu. ft OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1694 Loc=10000096 Name=Exercise Equipment - Treadmill 2 H.P. OnW=2000 OffW=0 ProbOn=0.025
+1695 Loc=10000096 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1696 Loc=10000096 Name=Television - 19 inch OnW=100 OffW=5 ProbOn=0.167
+1697 Loc=10000096 Name=Lighting - Comp Fluorescent - 23 Watt OnW=23 OffW=0 ProbOn=0.33
+1698 Loc=10000096 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1699 Loc=10000096 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1700 Loc=10000096 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+1701 Loc=10000096 Name=Refrigerator - 1.7 cu. ft. OnW=126 OffW=0 ProbOn=1.0 Reduce%=0.25
+1702 Loc=10000096 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1703 Loc=10000096 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1704 Loc=10000096 Name=Television Plasma 42' - 50' OnW=375 OffW=5 ProbOn=0.167
+1705 Loc=10000096 Name=Fax Machine OnW=10 OffW=0 ProbOn=1.0
+1706 Loc=10000097 Name=Lighting - 40 Watt OnW=40 OffW=0 ProbOn=0.33
+1707 Loc=10000097 Name=Air Conditioner - 10000 BTU OnW=1000 OffW=100 ProbOn=0.25 Reduce%=0.5
+1708 Loc=10000097 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1709 Loc=10000097 Name=Slow Cooker OnW=200 OffW=0 ProbOn=0.05
+1710 Loc=10000097 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+1711 Loc=10000097 Name=Dishwasher (Without Dry Cycle) OnW=200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1712 Loc=10000097 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+1713 Loc=10000097 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+1714 Loc=10000097 Name=Lighting - 3 rooms (8 60W) OnW=480 OffW=0 ProbOn=0.167
+1715 Loc=10000097 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+1716 Loc=10000097 Name=Toaster OnW=1000 OffW=0 ProbOn=0.01
+1717 Loc=10000097 Name=Range - Small Surface Unit OnW=1200 OffW=0 ProbOn=0.01
+1718 Loc=10000097 Name=Exercise Equipment - Treadmill 3 H.P. OnW=3000 OffW=0 ProbOn=0.025
+1719 Loc=10000097 Name=Toaster Oven OnW=1500 OffW=0 ProbOn=0.05
+1720 Loc=10000097 Name=Vacuum - Regular OnW=1440 OffW=0 ProbOn=0.01
+1721 Loc=10000097 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+1722 Loc=10000098 Name=Lighting - 7 rooms (12 60W) OnW=720 OffW=0 ProbOn=0.167
+1723 Loc=10000098 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+1724 Loc=10000098 Name=Clothes Dryer - Electric OnW=5000 OffW=0 ProbOn=0.05 Reduce%=0.25
+1725 Loc=10000098 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+1726 Loc=10000098 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1727 Loc=10000098 Name=Television 42' - 50' Projection OnW=24 OffW=5 ProbOn=0.167
+1728 Loc=10000098 Name=Lighting - 5 rooms (10 60W) OnW=600 OffW=0 ProbOn=0.167
+1729 Loc=10000098 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1730 Loc=10000098 Name=Air Purifier OnW=120 OffW=0 ProbOn=1.0 Reduce%=0.5
+1731 Loc=10000098 Name=Laptop OnW=75 OffW=10 ProbOn=0.25 Reduce%=0.5
+1732 Loc=10000098 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+1733 Loc=10000098 Name=Fish Tank (50 Gallon) OnW=230 OffW=0 ProbOn=1.0
+1734 Loc=10000098 Name=Refrigerator - Freezer 21 cu. ft.- Side by Side OnW=783 OffW=0 ProbOn=1.0 Reduce%=0.25
+1735 Loc=10000098 Name=Iron OnW=1100 OffW=0 ProbOn=0.01
+1736 Loc=10000098 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+1737 Loc=10000098 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1738 Loc=10000098 Name=Computer with Monitor OnW=270 OffW=10 ProbOn=0.5 Reduce%=0.5
+1739 Loc=10000099 Name=Television - 55 inch OnW=220 OffW=5 ProbOn=0.167
+1740 Loc=10000099 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+1741 Loc=10000099 Name=Refrigerator - Freezer 24 cu. ft. - Frostfree OnW=653 OffW=0 ProbOn=1.0 Reduce%=0.25
+1742 Loc=10000099 Name=Compactor (Trash) OnW=400 OffW=0 ProbOn=0.01
+1743 Loc=10000099 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+1744 Loc=10000099 Name=Coffee Maker OnW=900 OffW=0 ProbOn=0.01
+1745 Loc=10000099 Name=Ceiling Fan with 3 - 60 Watt Bulbs OnW=230 OffW=0 ProbOn=0.25
+1746 Loc=10000099 Name=Lighting - 100 Watt OnW=100 OffW=0 ProbOn=0.33
+1747 Loc=10000099 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+1748 Loc=10000099 Name=Refrigerator - 17 cu. ft - Frostfree OnW=463 OffW=0 ProbOn=1.0 Reduce%=0.25
+1749 Loc=10000099 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+1750 Loc=10000099 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+1751 Loc=10000099 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1752 Loc=10000099 Name=DVD OnW=60 OffW=5 ProbOn=0.167
+1753 Loc=10000099 Name=Refrigerator - 14 cu. ft. - Frostfree OnW=383 OffW=0 ProbOn=1.0 Reduce%=0.25
+1754 Loc=10000099 Name=Lawn Equipment - Hedge Trimmer OnW=450 OffW=0 ProbOn=0.01
+1755 Loc=10000099 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1756 Loc=10000099 Name=Fish Tank (10 Gallon) OnW=80 OffW=0 ProbOn=1.0
+1757 Loc=10000099 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+1758 Loc=10000099 Name=Television - 60 inch OnW=240 OffW=5 ProbOn=0.167
+1759 Loc=10000100 Name=Television - 13 inch OnW=60 OffW=5 ProbOn=0.167
+1760 Loc=10000100 Name=Television - 43 inch OnW=200 OffW=5 ProbOn=0.167
+1761 Loc=10000100 Name=Freezer - Upright/Chest 17 cu.ft. - Frostfree OnW=600 OffW=0 ProbOn=1.0 Reduce%=0.25
+1762 Loc=10000100 Name=Fan (Window) OnW=200 OffW=0 ProbOn=0.25
+1763 Loc=10000100 Name=Ceiling Fan w/o light OnW=50 OffW=0 ProbOn=0.25
+1764 Loc=10000100 Name=VCR OnW=45 OffW=5 ProbOn=0.05
+1765 Loc=10000100 Name=Range - Large Surface Unit OnW=2400 OffW=0 ProbOn=0.01
+1766 Loc=10000100 Name=Video Game OnW=200 OffW=0 ProbOn=0.167
+1767 Loc=10000100 Name=Fan OnW=200 OffW=0 ProbOn=0.1
+1768 Loc=10000100 Name=Clock - Electric OnW=3 OffW=0 ProbOn=1.0
+1769 Loc=10000100 Name=Clothes Washer OnW=1200 OffW=0 ProbOn=0.025 Reduce%=0.25
+1770 Loc=10000100 Name=Lawn Equipment - Weed Eater OnW=500 OffW=0 ProbOn=0.01
+1771 Loc=10000100 Name=Answering Machine OnW=10 OffW=0 ProbOn=1.0
+1772 Loc=10000100 Name=Lighting - 10 rooms (15 60W) OnW=900 OffW=0 ProbOn=0.167
+1773 Loc=10000100 Name=Air Conditioner - 5000 BTU OnW=500 OffW=100 ProbOn=0.25 Reduce%=0.5
+1774 Loc=10000100 Name=Refrigerator - 19 cu. ft. - Frostfree OnW=509 OffW=0 ProbOn=1.0 Reduce%=0.25
+1775 Loc=10000100 Name=Microwave Oven OnW=1500 OffW=5 ProbOn=0.01
+1776 Loc=10000100 Name=Air Conditioner - 7000 BTU OnW=750 OffW=100 ProbOn=0.25 Reduce%=0.5
+1777 Loc=10000100 Name=Refrigerator - 21 cu.ft. - Frostfree OnW=572 OffW=0 ProbOn=1.0 Reduce%=0.25
+1778 Loc=10000100 Name=Fan (Attic) OnW=500 OffW=0 ProbOn=0.1 Reduce%=0.25
